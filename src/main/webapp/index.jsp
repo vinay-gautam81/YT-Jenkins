@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Hello World! from Unus</title>
+<title>Jenkins Sample Project</title>
 </head>
 <body>
-	<h1>We have completed Jenkins lab. Tomorrow is Sunday March 19th!!</h1>
+	<h1>Welcome! We are learning DevOps!!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
