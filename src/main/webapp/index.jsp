@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Welcome! We are learning DevOps!!</h1>
-        <h2> Update No 5 on Jan27</h2>
+        <h2> Update No 6 on Jan27</h2>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
