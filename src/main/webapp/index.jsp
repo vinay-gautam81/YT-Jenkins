@@ -6,7 +6,7 @@
 	<h1>Welcome! We are learning DevOps!!</h1>
         <h2> Update No 3 on Feb18</h2>
 	<p>
-		It is now
+		It is now completed
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
